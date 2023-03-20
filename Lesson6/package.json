@@ -1,16 +1,19 @@
 {
   "name": "lesson6",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Md. Hasan",
   "license": "ISC",
   "dependencies": {
     "random-fruits-name": "^1.9.6",
     "random-movie-names": "^1.0.2"
-  }
+  },
+  "devDependencies": {
+    "mocha": "^9.2.2"
+  },
+  "description": ""
 }
