@@ -1,6 +1,7 @@
 const http = require('http');
 const fs = require('fs');
 
+// const PORT = process.env.PORT;
 const PORT = 3100;
 
 const manageReadFile = (statusCode, fileLocation, req, res) => {
